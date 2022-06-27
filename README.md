@@ -31,6 +31,17 @@ Most of my experience in programming comes from competitive programming over on 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+### My Projects -
+
+| Project Name | Repository Link | Technologies used |
+|--------------|-----------------|-------------------|
+|Feudle|https://github.com/abhinildutt/feudle-1.git|<img src="https://img.shields.io/static/v1?label=&message=Rust&color=maroon"/> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=lightblue"/>|
+|Chessvangaza|https://github.com/abhinildutt/Chessvangaza|<img src="https://img.shields.io/static/v1?label=&message=React&color=blue"/> <img src="https://img.shields.io/static/v1?label=&message=Flask&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=lightblue"/>|
+|Distribution Simulator|https://github.com/abhinildutt/Distribution-Simulator|<img src="https://img.shields.io/static/v1?label=&message=Flask&color=green"/> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=lightblue"/>|
+|Twitch Personalized Dashboard|https://github.com/abhinildutt/Twitch-personalized-dashboard|<img src="https://img.shields.io/static/v1?label=&message=React&color=blue"/> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/>|
+|NFT Game|https://github.com/abhinildutt/NFT-game|<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow"/>|
+
 <!--
 **abhinildutt/abhinildutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
